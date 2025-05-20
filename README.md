@@ -15,7 +15,7 @@ Designed under strict programming constraints, including no use of the string cl
 - Pointers and Arrays of Pointers
 - Modular Programming
 ### UI:
-[UI](https://github.com/ImamaSarwar/Bank-Management-System/raw/2989074b3ee396f0abde1baa0fcc22a6bb62db58/UI.png)
+![UI](https://github.com/ImamaSarwar/Bank-Management-System/raw/2989074b3ee396f0abde1baa0fcc22a6bb62db58/UI.png)
 ## Getting Started
 - Clone or download the project.
 - Compile the code using any standard C++ compiler (like g++).
