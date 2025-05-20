@@ -15,10 +15,10 @@ Designed under strict programming constraints, including no use of the string cl
 - Dynamic Memory Allocation with new
 - Pointers and Arrays of Pointers
 - Modular Programming
-### UI:
+## UI:
 ![UI](https://github.com/ImamaSarwar/Bank-Management-System/raw/2989074b3ee396f0abde1baa0fcc22a6bb62db58/UI.png)
 ## Getting Started
 - Clone or download the project.
 - Compile the code using any standard C++ compiler (like g++).
 - Run the executable in the terminal to interact with the system.
-##### Thank you for reviewing this project! Any constructive feedback is appreciated.
+### Thank you for reviewing this project! Any constructive feedback is appreciated.
