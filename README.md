@@ -1,5 +1,6 @@
 # Fort Nox- Bank Management System
 Fort Nox is a basic console-based bank management system developed in C++ that demonstrates core Object-Oriented Programming (OOP) concepts such as function overloading, dynamic memory allocation, and struct composition.
+### Implementation Details & Constraints
 Designed under strict programming constraints, including no use of the string class or any inbuilt functions, the project encourages hands-on problem solving, deep understanding of character arrays, and low-level memory manipulation. Fort Nox simulates a simplified banking environment where users can open accounts, search and update customer information, and display all existing accounts, all while working with raw pointers and manually managed memory.
 ## Features
 - Open new customer accounts with unique account numbers (PK001 to PK100)
